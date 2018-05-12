@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/798
     wikipedia: http://en.wikipedia.org/wiki/Henry_Brooks_Adams
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45654#The-Life-of-Albert-Gallatin
 gutenberg_issued: '2014-05-15'
 gutenberg_type: Text
 identifiers:
